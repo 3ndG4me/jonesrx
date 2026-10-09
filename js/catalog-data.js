@@ -505,6 +505,7 @@ window.CATALOG = {
     "streams": "12,651",
     "monthlyListeners": "69",
     "topTrack": "Painful · 5,478",
-    "showsPlayed": 5
+    "showsPlayed": 5,
+    "followers": "4,768"
   }
 };
