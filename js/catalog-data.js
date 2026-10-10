@@ -18,9 +18,9 @@ window.CATALOG = {
       "appleUrl": "https://music.apple.com/us/album/over-u/6821119879?i=6821119880&uo=4",
       "spotifyUrl": "",
       "popularity": null,
-      "plays": "9",
+      "plays": "10",
       "playSources": {
-        "soundcloud": 1,
+        "soundcloud": 2,
         "youtube": 8
       },
       "local": "assets/catalog/over-u.mp3"
@@ -437,7 +437,7 @@ window.CATALOG = {
       "released": "2026-10-09",
       "trackCount": 1,
       "art": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c2/e7/bd/c2e7bd9c-e0c1-ee74-3643-7824a2389746/artwork.jpg/600x600bb.jpg",
-      "appleUrl": "https://music.apple.com/us/album/over-u/6821119879",
+      "appleUrl": "https://music.apple.com/us/album/over-u-single/6821119879?uo=4",
       "spotifyUrl": "https://open.spotify.com/search/Over%20U%20Jones%20RX"
     },
     {
@@ -534,10 +534,10 @@ window.CATALOG = {
     "releaseCount": 9,
     "firstYear": "2023",
     "latestYear": "2026",
-    "streams": "12,670",
+    "streams": "12,671",
     "monthlyListeners": "68",
     "topTrack": "Painful · 5,483",
     "showsPlayed": 5,
-    "followers": "4,767"
+    "followers": "4,769"
   }
 };
