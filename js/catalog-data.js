@@ -18,10 +18,10 @@ window.CATALOG = {
       "appleUrl": "https://music.apple.com/us/album/over-u/6821119879?i=6821119880&uo=4",
       "spotifyUrl": "",
       "popularity": null,
-      "plays": "41",
+      "plays": "45",
       "playSources": {
         "soundcloud": 2,
-        "youtube": 39
+        "youtube": 43
       },
       "local": "assets/catalog/over-u.mp3"
     },
@@ -144,10 +144,10 @@ window.CATALOG = {
       "appleUrl": "https://music.apple.com/us/album/new-low-feat-steelpraud/1779309073?i=1779309075&uo=4",
       "spotifyUrl": "",
       "popularity": null,
-      "plays": "1572",
+      "plays": "1573",
       "playSources": {
         "spotify": 1109,
-        "soundcloud": 154,
+        "soundcloud": 155,
         "youtube": 309
       },
       "local": "assets/catalog/new-low-feat-steelpraud.mp3"
@@ -534,10 +534,10 @@ window.CATALOG = {
     "releaseCount": 9,
     "firstYear": "2023",
     "latestYear": "2026",
-    "streams": "12,737",
-    "monthlyListeners": "78",
+    "streams": "12,742",
+    "monthlyListeners": "81",
     "topTrack": "Painful · 5,506",
     "showsPlayed": 5,
-    "followers": "4,793"
+    "followers": "4,796"
   }
 };
