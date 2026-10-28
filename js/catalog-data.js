@@ -535,7 +535,7 @@ window.CATALOG = {
     "firstYear": "2023",
     "latestYear": "2026",
     "streams": "12,765",
-    "monthlyListeners": "134",
+    "monthlyListeners": "137",
     "topTrack": "Painful · 5,507",
     "showsPlayed": 5,
     "followers": "4,797"
