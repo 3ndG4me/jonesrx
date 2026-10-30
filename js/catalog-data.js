@@ -18,9 +18,9 @@ window.CATALOG = {
       "appleUrl": "https://music.apple.com/us/album/over-u/6821119879?i=6821119880&uo=4",
       "spotifyUrl": "",
       "popularity": null,
-      "plays": "54",
+      "plays": "55",
       "playSources": {
-        "soundcloud": 3,
+        "soundcloud": 4,
         "youtube": 51
       },
       "local": "assets/catalog/over-u.mp3"
@@ -534,7 +534,7 @@ window.CATALOG = {
     "releaseCount": 9,
     "firstYear": "2023",
     "latestYear": "2026",
-    "streams": "12,766",
+    "streams": "12,767",
     "monthlyListeners": "140",
     "topTrack": "Painful · 5,508",
     "showsPlayed": 5,
