@@ -399,9 +399,9 @@ window.CATALOG = {
       "appleUrl": "https://music.apple.com/us/album/vices/1778581995?i=1778581998&uo=4",
       "spotifyUrl": "",
       "popularity": null,
-      "plays": "111",
+      "plays": "112",
       "playSources": {
-        "soundcloud": 86,
+        "soundcloud": 87,
         "youtube": 25
       },
       "local": "assets/catalog/vices.mp3"
@@ -534,8 +534,8 @@ window.CATALOG = {
     "releaseCount": 9,
     "firstYear": "2023",
     "latestYear": "2026",
-    "streams": "12,771",
-    "monthlyListeners": "187",
+    "streams": "12,772",
+    "monthlyListeners": "184",
     "topTrack": "Painful · 5,510",
     "showsPlayed": 5,
     "followers": "4,795"
