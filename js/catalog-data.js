@@ -81,10 +81,10 @@ window.CATALOG = {
       "appleUrl": "https://music.apple.com/us/album/give-up-go-home/1801621920?i=1801621921&uo=4",
       "spotifyUrl": "",
       "popularity": null,
-      "plays": "181",
+      "plays": "182",
       "playSources": {
         "soundcloud": 14,
-        "youtube": 167
+        "youtube": 168
       },
       "local": "assets/catalog/give-up-go-home.mp3"
     },
@@ -357,10 +357,10 @@ window.CATALOG = {
       "appleUrl": "https://music.apple.com/us/album/patr%C3%B3n/1778581995?i=1778581996&uo=4",
       "spotifyUrl": "",
       "popularity": null,
-      "plays": "338",
+      "plays": "339",
       "playSources": {
         "soundcloud": 70,
-        "youtube": 268
+        "youtube": 269
       },
       "local": "assets/catalog/patron.mp3"
     },
@@ -534,10 +534,10 @@ window.CATALOG = {
     "releaseCount": 9,
     "firstYear": "2023",
     "latestYear": "2026",
-    "streams": "12,798",
-    "monthlyListeners": "160",
+    "streams": "12,800",
+    "monthlyListeners": "159",
     "topTrack": "Painful · 5,512",
     "showsPlayed": 5,
-    "followers": "4,796"
+    "followers": "4,798"
   }
 };
