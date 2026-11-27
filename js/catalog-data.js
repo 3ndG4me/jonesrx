@@ -187,11 +187,11 @@ window.CATALOG = {
       "appleUrl": "https://music.apple.com/us/album/upside-down/1779309073?i=1779309499&uo=4",
       "spotifyUrl": "",
       "popularity": null,
-      "plays": "1697",
+      "plays": "1698",
       "playSources": {
         "spotify": 1197,
         "soundcloud": 22,
-        "youtube": 478
+        "youtube": 479
       },
       "local": "assets/catalog/upside-down.mp3"
     },
@@ -534,10 +534,10 @@ window.CATALOG = {
     "releaseCount": 9,
     "firstYear": "2023",
     "latestYear": "2026",
-    "streams": "12,807",
-    "monthlyListeners": "137",
+    "streams": "12,808",
+    "monthlyListeners": "136",
     "topTrack": "Painful · 5,512",
     "showsPlayed": 3,
-    "followers": "4,797"
+    "followers": "4,795"
   }
 };
