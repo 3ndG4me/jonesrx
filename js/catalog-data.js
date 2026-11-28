@@ -60,9 +60,9 @@ window.CATALOG = {
       "appleUrl": "https://music.apple.com/us/album/crash-out/1822544140?i=1822544141&uo=4",
       "spotifyUrl": "",
       "popularity": null,
-      "plays": "612",
+      "plays": "613",
       "playSources": {
-        "soundcloud": 251,
+        "soundcloud": 252,
         "youtube": 361
       },
       "local": "assets/catalog/crash-out.mp3"
@@ -209,11 +209,11 @@ window.CATALOG = {
       "appleUrl": "https://music.apple.com/us/album/painful/1779309073?i=1779309501&uo=4",
       "spotifyUrl": "",
       "popularity": null,
-      "plays": "5512",
+      "plays": "5513",
       "playSources": {
         "spotify": 4794,
         "soundcloud": 60,
-        "youtube": 658
+        "youtube": 659
       },
       "local": "assets/catalog/painful.mp3"
     },
@@ -534,10 +534,10 @@ window.CATALOG = {
     "releaseCount": 9,
     "firstYear": "2023",
     "latestYear": "2026",
-    "streams": "12,808",
-    "monthlyListeners": "136",
-    "topTrack": "Painful · 5,512",
+    "streams": "12,810",
+    "monthlyListeners": "129",
+    "topTrack": "Painful · 5,513",
     "showsPlayed": 3,
-    "followers": "4,795"
+    "followers": "4,797"
   }
 };
